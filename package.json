@@ -1,0 +1,12 @@
+{
+  "name": "postcss-vars",
+  "version": "0.1.0",
+  "author": {
+    "name": "Vincent De Oliveira"
+  },
+  "description": "Adds CSS variables",
+  "main": "./lib/index",
+  "dependencies": {
+    "postcss": "0.3.4"
+  }
+}
