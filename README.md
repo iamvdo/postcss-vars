@@ -1,4 +1,4 @@
 postcss-vars
 ============
 
-Add CSS "variables"
+WIP. Don't use it yet. ;)
