@@ -55,6 +55,18 @@ Fix variables, and you will get the following output:
 }
 ```
 
+Warning: You can use a fallback value too, which is used as the substitution value if the variable is undefined. Pay attention that the CSS Custom properties module define the fallback value as a subsitution if the variable is invalid (eg. `color: var(--foo)` when `--foo: 20px` is set).
+
+```css
+:root {
+
+}
+.elem {
+	color: var(--color, red);
+}
+```
+
+
 ##API
 
 ###processor
