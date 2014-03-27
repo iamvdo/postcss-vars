@@ -4,7 +4,7 @@
   "author": {
     "name": "Vincent De Oliveira"
   },
-  "description": "Adds CSS variables",
+  "description": "\"Not so bad\" CSS custom properties' postprocessor",
   "main": "./lib/index",
   "dependencies": {
     "postcss": "0.3.4"
