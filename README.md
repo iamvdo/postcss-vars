@@ -1,5 +1,5 @@
 
-<div style="color: crimson">**Deprecated module!** See [postcss-custom-properties](https://github.com/postcss/postcss-custom-properties) instead.</div>
+##**Deprecated module!** See [postcss-custom-properties](https://github.com/postcss/postcss-custom-properties) instead.
 
 postcss-vars
 ============
