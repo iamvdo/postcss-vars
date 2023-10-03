@@ -7,6 +7,6 @@
   "description": "\"Not so bad\" CSS custom properties' postprocessor",
   "main": "./lib/index",
   "dependencies": {
-    "postcss": "0.3.4"
+    "postcss": "8.4.31"
   }
 }
